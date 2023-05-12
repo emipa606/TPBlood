@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>BloodCombinement</defName>
+    <label>blood combinement</label>
+    <description>Harness pure willpower and evil thoughts to create a weak stone-like bloody brick at a butcher's table.</description>
+    <baseCost>250</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <researchViewX>0.00</researchViewX>
+    <researchViewY>4.90</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>BloodRefinement</defName>
+    <label>blood refinement</label>
+    <description>Build a blood altar that is used to create bloodcrete.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <researchViewX>1.00</researchViewX>
+    <researchViewY>4.90</researchViewY>
+    <prerequisites>
+      <li>BloodCombinement</li>
+    </prerequisites>
+  </ResearchProjectDef>
+</Defs>
