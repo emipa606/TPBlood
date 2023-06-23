@@ -4,6 +4,8 @@
 
 Update of TrahsPanda, Geckobolds mod https://steamcommunity.com/sharedfiles/filedetails/?id=2170595802
 
+To convert blood to hemogen, try https://steamcommunity.com/sharedfiles/filedetails/?id=2975285830]Blood to Hemogen by Zaljerem
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
@@ -143,9 +145,6 @@ Thank you to https://steamcommunity.com/id/dninemfive]dninemfive for help making
 Thank you to https://steamcommunity.com/id/FujiFujiFujiFuji/]Fuji for help with the Android Tiers patch.
 Thank you to https://steamcommunity.com/profiles/76561198122890724]Tkhakiro for the Russian language translation.
 
-https://discord.gg/m9K7rWp]My Discord Server
-https://www.patreon.com/trahspandamods]My Patreon
-
 https://t3chnomancer-lich.tumblr.com/]Geckobold's Tumblr!
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
@@ -160,3 +159,4 @@ https://t3chnomancer-lich.tumblr.com/]Geckobold's Tumblr!
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2974969628]Last updated 2023-06-23
