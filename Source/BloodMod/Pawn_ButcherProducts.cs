@@ -6,9 +6,12 @@ using Verse;
 
 namespace BloodMod;
 
-[HarmonyPatch(typeof(Pawn), "ButcherProducts")]
+[HarmonyPatch(typeof(Pawn), nameof(Pawn.ButcherProducts))]
 public static class Pawn_ButcherProducts
 {
+    private static readonly StatDef bloodAmount = StatDef.Named("BloodAmount");
+    private static readonly ThingDef bloodItem = ThingDef.Named("BloodItem");
+
     public static IEnumerable<Thing> Postfix(IEnumerable<Thing> values, Pawn __instance, float efficiency)
     {
         if (values == null || !values.Any())
@@ -22,14 +25,14 @@ public static class Pawn_ButcherProducts
         }
 
         var stackCount =
-            GenMath.RoundRandom(__instance.GetStatValue(DefDatabase<StatDef>.GetNamed("BloodAmount")) * efficiency);
+            GenMath.RoundRandom(__instance.GetStatValue(bloodAmount) * efficiency);
 
         if (stackCount < 1)
         {
             yield break;
         }
 
-        var thing = ThingMaker.MakeThing(DefDatabase<ThingDef>.GetNamed("BloodItem"));
+        var thing = ThingMaker.MakeThing(bloodItem);
         thing.stackCount = stackCount;
         yield return thing;
     }

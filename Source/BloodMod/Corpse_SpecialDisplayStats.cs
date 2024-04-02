@@ -5,7 +5,7 @@ using Verse;
 
 namespace BloodMod;
 
-[HarmonyPatch(typeof(Corpse), "SpecialDisplayStats")]
+[HarmonyPatch(typeof(Corpse), nameof(Corpse.SpecialDisplayStats))]
 public static class Corpse_SpecialDisplayStats
 {
     public static IEnumerable<StatDrawEntry> Postfix(IEnumerable<StatDrawEntry> values, Corpse __instance)
