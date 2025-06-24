@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bloodcrete -->
+  <Bloodcrete.label>bloodcrete</Bloodcrete.label>
+  <!-- EN: Bricks made from blood at a blood altar. Locally dubbed as bloodcrete, this resource is twice as strong as bloodstone -->
+  <Bloodcrete.description>Bricks made from blood at a blood altar. Locally dubbed as bloodcrete, this resource is twice as strong as bloodstone</Bloodcrete.description>
+  <!-- EN: bloodstone -->
+  <Bloodstone.label>bloodstone</Bloodstone.label>
+  <!-- EN: Bricks made from blood at a butcher's table. Locally dubbed as bloodstone, this resource is very weak. Preferably used as decoration material. -->
+  <Bloodstone.description>Bricks made from blood at a butcher's table. Locally dubbed as bloodstone, this resource is very weak. Preferably used as decoration material.</Bloodstone.description>
+</LanguageData>

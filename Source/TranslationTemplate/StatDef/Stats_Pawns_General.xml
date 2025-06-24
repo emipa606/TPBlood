@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blood amount -->
+  <BloodAmount.label>blood amount</BloodAmount.label>
+  <!-- EN: The amount of blood you will get from butchering this creature. -->
+  <BloodAmount.description>The amount of blood you will get from butchering this creature.</BloodAmount.description>
+</LanguageData>

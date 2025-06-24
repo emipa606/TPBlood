@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cook bloodrito -->
+  <CookMealBloodrito.label>cook bloodrito</CookMealBloodrito.label>
+  <!-- EN: Cook a bloodrito from meat and blood. -->
+  <CookMealBloodrito.description>Cook a bloodrito from meat and blood.</CookMealBloodrito.description>
+  <!-- EN: Cooking bloodrito. -->
+  <CookMealBloodrito.jobString>Cooking bloodrito.</CookMealBloodrito.jobString>
+  <!-- EN: cook bloodrito x4 -->
+  <CookMealBloodritoBulk.label>cook bloodrito x4</CookMealBloodritoBulk.label>
+  <!-- EN: Cook a bloodrito from meat and blood. -->
+  <CookMealBloodritoBulk.description>Cook a bloodrito from meat and blood.</CookMealBloodritoBulk.description>
+  <!-- EN: Cooking bloodrito in bulk. -->
+  <CookMealBloodritoBulk.jobString>Cooking bloodrito in bulk.</CookMealBloodritoBulk.jobString>
+  <!-- EN: cook blood sausage -->
+  <CookMealBloodSausage.label>cook blood sausage</CookMealBloodSausage.label>
+  <!-- EN: Cook a meat sausage held together by blood. -->
+  <CookMealBloodSausage.description>Cook a meat sausage held together by blood.</CookMealBloodSausage.description>
+  <!-- EN: Cooking blood sausage. -->
+  <CookMealBloodSausage.jobString>Cooking blood sausage.</CookMealBloodSausage.jobString>
+  <!-- EN: cook blood sausage x4 -->
+  <CookMealBloodSausageBulk.label>cook blood sausage x4</CookMealBloodSausageBulk.label>
+  <!-- EN: Cook a meat sausage held together by blood. -->
+  <CookMealBloodSausageBulk.description>Cook a meat sausage held together by blood.</CookMealBloodSausageBulk.description>
+  <!-- EN: Cooking blood sausage in bulk. -->
+  <CookMealBloodSausageBulk.jobString>Cooking blood sausage in bulk.</CookMealBloodSausageBulk.jobString>
+  <!-- EN: cook bug cream -->
+  <CookMealBugCream.label>cook bug cream</CookMealBugCream.label>
+  <!-- EN: Cook a revolting meal for desperate circumstances. -->
+  <CookMealBugCream.description>Cook a revolting meal for desperate circumstances.</CookMealBugCream.description>
+  <!-- EN: Cooking bug cream. -->
+  <CookMealBugCream.jobString>Cooking bug cream.</CookMealBugCream.jobString>
+  <!-- EN: cook bug cream x4 -->
+  <CookMealBugCreamBulk.label>cook bug cream x4</CookMealBugCreamBulk.label>
+  <!-- EN: Cook a revolting meal for desperate circumstances. -->
+  <CookMealBugCreamBulk.description>Cook a revolting meal for desperate circumstances.</CookMealBugCreamBulk.description>
+  <!-- EN: Cooking bug cream in bulk. -->
+  <CookMealBugCreamBulk.jobString>Cooking bug cream in bulk.</CookMealBugCreamBulk.jobString>
+  <!-- EN: cook meatloaf -->
+  <CookMealMysteryLoaf.label>cook meatloaf</CookMealMysteryLoaf.label>
+  <!-- EN: Cook a tray of meatloaf, from anything. Much of the resources are lost during the cooking process of such a lavish food. -->
+  <CookMealMysteryLoaf.description>Cook a tray of meatloaf, from anything. Much of the resources are lost during the cooking process of such a lavish food.</CookMealMysteryLoaf.description>
+  <!-- EN: Cooking meatloaf -->
+  <CookMealMysteryLoaf.jobString>Cooking meatloaf</CookMealMysteryLoaf.jobString>
+  <!-- EN: cook meatloaf x4 -->
+  <CookMealMysteryLoafBulk.label>cook meatloaf x4</CookMealMysteryLoafBulk.label>
+  <!-- EN: Cook a tray of meatloaf, from anything. Most of the resources are lost during the cooking process of such a lavish food. -->
+  <CookMealMysteryLoafBulk.description>Cook a tray of meatloaf, from anything. Most of the resources are lost during the cooking process of such a lavish food.</CookMealMysteryLoafBulk.description>
+  <!-- EN: Cooking meatloaf in bulk. -->
+  <CookMealMysteryLoafBulk.jobString>Cooking meatloaf in bulk.</CookMealMysteryLoafBulk.jobString>
+</LanguageData>

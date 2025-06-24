@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make bloodcrete from blood -->
+  <Make_Bloodcrete1.label>make bloodcrete from blood</Make_Bloodcrete1.label>
+  <!-- EN: Make 25 bloodcrete. -->
+  <Make_Bloodcrete1.description>Make 25 bloodcrete.</Make_Bloodcrete1.description>
+  <!-- EN: Making blood into bloodcrete. -->
+  <Make_Bloodcrete1.jobString>Making blood into bloodcrete.</Make_Bloodcrete1.jobString>
+  <!-- EN: make bloodcrete from blood x2 -->
+  <Make_Bloodcrete2.label>make bloodcrete from blood x2</Make_Bloodcrete2.label>
+  <!-- EN: Make 50 bloodcrete. -->
+  <Make_Bloodcrete2.description>Make 50 bloodcrete.</Make_Bloodcrete2.description>
+  <!-- EN: Making blood into bloodcrete. -->
+  <Make_Bloodcrete2.jobString>Making blood into bloodcrete.</Make_Bloodcrete2.jobString>
+  <!-- EN: make bloodcrete from blood x3 -->
+  <Make_Bloodcrete3.label>make bloodcrete from blood x3</Make_Bloodcrete3.label>
+  <!-- EN: Make 75 bloodcrete. -->
+  <Make_Bloodcrete3.description>Make 75 bloodcrete.</Make_Bloodcrete3.description>
+  <!-- EN: Making blood into bloodcrete. -->
+  <Make_Bloodcrete3.jobString>Making blood into bloodcrete.</Make_Bloodcrete3.jobString>
+  <!-- EN: make bloodcrete from blood x4 -->
+  <Make_Bloodcrete4.label>make bloodcrete from blood x4</Make_Bloodcrete4.label>
+  <!-- EN: Make 100 bloodcrete. -->
+  <Make_Bloodcrete4.description>Make 100 bloodcrete.</Make_Bloodcrete4.description>
+  <!-- EN: Making blood into bloodcrete. -->
+  <Make_Bloodcrete4.jobString>Making blood into bloodcrete.</Make_Bloodcrete4.jobString>
+  <!-- EN: make bloodstone from blood -->
+  <Make_Bloodstone1.label>make bloodstone from blood</Make_Bloodstone1.label>
+  <!-- EN: Make 25 bloodstone bricks. -->
+  <Make_Bloodstone1.description>Make 25 bloodstone bricks.</Make_Bloodstone1.description>
+  <!-- EN: Making blood into bloodstone. -->
+  <Make_Bloodstone1.jobString>Making blood into bloodstone.</Make_Bloodstone1.jobString>
+  <!-- EN: make bloodstone from blood x2 -->
+  <Make_Bloodstone2.label>make bloodstone from blood x2</Make_Bloodstone2.label>
+  <!-- EN: Make 50 bloodstone bricks. -->
+  <Make_Bloodstone2.description>Make 50 bloodstone bricks.</Make_Bloodstone2.description>
+  <!-- EN: Making blood into bloodstone. -->
+  <Make_Bloodstone2.jobString>Making blood into bloodstone.</Make_Bloodstone2.jobString>
+  <!-- EN: make bloodstone from blood x3 -->
+  <Make_Bloodstone3.label>make bloodstone from blood x3</Make_Bloodstone3.label>
+  <!-- EN: Make 75 bloodstone bricks. -->
+  <Make_Bloodstone3.description>Make 75 bloodstone bricks.</Make_Bloodstone3.description>
+  <!-- EN: Making blood into bloodstone. -->
+  <Make_Bloodstone3.jobString>Making blood into bloodstone.</Make_Bloodstone3.jobString>
+  <!-- EN: make bloodstone from blood x4 -->
+  <Make_Bloodstone4.label>make bloodstone from blood x4</Make_Bloodstone4.label>
+  <!-- EN: Make 100 bloodstone bricks. -->
+  <Make_Bloodstone4.description>Make 100 bloodstone bricks.</Make_Bloodstone4.description>
+  <!-- EN: Making blood into bloodstone. -->
+  <Make_Bloodstone4.jobString>Making blood into bloodstone.</Make_Bloodstone4.jobString>
+</LanguageData>

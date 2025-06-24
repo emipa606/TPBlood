@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bloodrito -->
+  <MealBloodrito.label>bloodrito</MealBloodrito.label>
+  <!-- EN: A burrito fashioned with blood... And of course, meat on the insides. -->
+  <MealBloodrito.description>A burrito fashioned with blood... And of course, meat on the insides.</MealBloodrito.description>
+  <!-- EN: blood sausage -->
+  <MealBloodSausage.label>blood sausage</MealBloodSausage.label>
+  <!-- EN: A sausage made from meat and blood. -->
+  <MealBloodSausage.description>A sausage made from meat and blood.</MealBloodSausage.description>
+  <!-- EN: bug cream -->
+  <MealBugCream.label>bug cream</MealBugCream.label>
+  <!-- EN: Hardly digestible, this bug cream is made from the puss that comes from insect meat and some blood mixed in for nutrition. If you're eating this, you must be in an awful place. -->
+  <MealBugCream.description>Hardly digestible, this bug cream is made from the puss that comes from insect meat and some blood mixed in for nutrition. If you're eating this, you must be in an awful place.</MealBugCream.description>
+  <!-- EN: meatloaf -->
+  <MealMysteryLoaf.label>meatloaf</MealMysteryLoaf.label>
+  <!-- EN: A beautiful tray of meatloaf that is so good, no one really cares what it is made of... Hint hint. -->
+  <MealMysteryLoaf.description>A beautiful tray of meatloaf that is so good, no one really cares what it is made of... Hint hint.</MealMysteryLoaf.description>
+</LanguageData>

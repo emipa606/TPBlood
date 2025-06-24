@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blood combinement -->
+  <BloodCombinement.label>blood combinement</BloodCombinement.label>
+  <!-- EN: Harness pure willpower and evil thoughts to create a weak stone-like bloody brick at a butcher's table. -->
+  <BloodCombinement.description>Harness pure willpower and evil thoughts to create a weak stone-like bloody brick at a butcher's table.</BloodCombinement.description>
+  <!-- EN: blood refinement -->
+  <BloodRefinement.label>blood refinement</BloodRefinement.label>
+  <!-- EN: Build a blood altar that is used to create bloodcrete. -->
+  <BloodRefinement.description>Build a blood altar that is used to create bloodcrete.</BloodRefinement.description>
+</LanguageData>

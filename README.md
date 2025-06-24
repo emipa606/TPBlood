@@ -1,23 +1,22 @@
-# TPBlood
+# [[TP]Blood (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2974969628)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of TrahsPanda, Geckobolds mod https://steamcommunity.com/sharedfiles/filedetails/?id=2170595802
 
-- To convert blood to hemogen, try https://steamcommunity.com/sharedfiles/filedetails/?id=2975285830]Blood to Hemogen by Zaljerem
+- To convert blood to hemogen, try [Blood to Hemogen](https://steamcommunity.com/sharedfiles/filedetails/?id=2975285830) by Zaljerem
 - Mechs should no longer have blood
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
 # DESCRIPTION
 
 
-Geckobold showed me a mod called https://steamcommunity.com/sharedfiles/filedetails/?id=1180573408]Rim of Madness - Bones and that made me love butchering things even more, and as I was butchering my sixth raider of that day, I thought, "I wanna live, eat, and breathe blood."
+Geckobold showed me a mod called [Rim of Madness - Bones](https://steamcommunity.com/sharedfiles/filedetails/?id=1180573408) and that made me love butchering things even more, and as I was butchering my sixth raider of that day, I thought, "I wanna live, eat, and breathe blood."
 
-You can, with this mod and https://steamcommunity.com/sharedfiles/filedetails/?id=1180573408]Rim of Madness - Bones, make a house and sustain yourself off of your enemies!... Well you could already with RoM-B, but now it's easier and more sick!
+You can, with this mod and [Rim of Madness - Bones](https://steamcommunity.com/sharedfiles/filedetails/?id=1180573408), make a house and sustain yourself off of your enemies!... Well you could already with RoM-B, but now it's easier and more sick!
 
 # WHAT DOES IT DO?
 
@@ -141,12 +140,12 @@ After "Blood Combinement", you can research "Blood Refinement" for 500 points wh
 # OTHER INFORMATION, LINKS, AND CREDITS
 
 
-Thank you to https://steamcommunity.com/profiles/76561198244962900/]Geckobold for helping me with every asset in this mod.
-Thank you to https://steamcommunity.com/id/dninemfive]dninemfive for help making blood work.
-Thank you to https://steamcommunity.com/id/FujiFujiFujiFuji/]Fuji for help with the Android Tiers patch.
-Thank you to https://steamcommunity.com/profiles/76561198122890724]Tkhakiro for the Russian language translation.
+Thank you to [Geckobold](https://steamcommunity.com/profiles/76561198244962900/) for helping me with every asset in this mod.
+Thank you to [dninemfive](https://steamcommunity.com/id/dninemfive) for help making blood work.
+Thank you to [Fuji](https://steamcommunity.com/id/FujiFujiFujiFuji/) for help with the Android Tiers patch.
+Thank you to [Tkhakiro](https://steamcommunity.com/profiles/76561198122890724) for the Russian language translation.
 
-https://t3chnomancer-lich.tumblr.com/]Geckobold's Tumblr!
+[Geckobold's Tumblr!](https://t3chnomancer-lich.tumblr.com/)
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
 
@@ -154,13 +153,12 @@ https://t3chnomancer-lich.tumblr.com/]Geckobold's Tumblr!
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2974969628]![Image](https://img.shields.io/github/v/release/emipa606/TPBlood?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/TPBlood?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2974969628) | tags:  resource

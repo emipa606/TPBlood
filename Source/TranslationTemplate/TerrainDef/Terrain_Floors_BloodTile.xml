@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bloodcrete -->
+  <BloodcreteFloor.label>bloodcrete</BloodcreteFloor.label>
+  <!-- EN: Bloodcrete. It is cheap and quick to build, and not bad to look at. -->
+  <BloodcreteFloor.description>Bloodcrete. It is cheap and quick to build, and not bad to look at.</BloodcreteFloor.description>
+  <!-- EN: bloodstone flagstone -->
+  <FlagstoneBloodstone.label>bloodstone flagstone</FlagstoneBloodstone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneBloodstone.description>Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneBloodstone.description>
+  <!-- EN: bloodstone tile -->
+  <TileBloodstone.label>bloodstone tile</TileBloodstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileBloodstone.description>Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay.</TileBloodstone.description>
+</LanguageData>

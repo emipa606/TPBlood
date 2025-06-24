@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ate bloodrito -->
+  <AteBloodrito.stages.ate_bloodrito.label>ate bloodrito</AteBloodrito.stages.ate_bloodrito.label>
+  <!-- EN: Had a bloodrito. Tasted funky, but a good funky. -->
+  <AteBloodrito.stages.ate_bloodrito.description>Had a bloodrito. Tasted funky, but a good funky.</AteBloodrito.stages.ate_bloodrito.description>
+  <!-- EN: ate blood sausage -->
+  <AteBloodSausage.stages.ate_blood_sausage.label>ate blood sausage</AteBloodSausage.stages.ate_blood_sausage.label>
+  <!-- EN: Had a blood sausage. It was okay. -->
+  <AteBloodSausage.stages.ate_blood_sausage.description>Had a blood sausage. It was okay.</AteBloodSausage.stages.ate_blood_sausage.description>
+  <!-- EN: ate bug cream -->
+  <AteBugCream.stages.ate_bug_cream.label>ate bug cream</AteBugCream.stages.ate_bug_cream.label>
+  <!-- EN: Had to force myself to eat bug cream. I shouldn't be eating this. -->
+  <AteBugCream.stages.ate_bug_cream.description>Had to force myself to eat bug cream. I shouldn't be eating this.</AteBugCream.stages.ate_bug_cream.description>
+  <!-- EN: ate mystery meatloaf -->
+  <AteMysteryLoaf.stages.ate_mystery_meatloaf.label>ate mystery meatloaf</AteMysteryLoaf.stages.ate_mystery_meatloaf.label>
+  <!-- EN: I have no idea what is in this, but holy Lord is it great! -->
+  <AteMysteryLoaf.stages.ate_mystery_meatloaf.description>I have no idea what is in this, but holy Lord is it great!</AteMysteryLoaf.stages.ate_mystery_meatloaf.description>
+</LanguageData>

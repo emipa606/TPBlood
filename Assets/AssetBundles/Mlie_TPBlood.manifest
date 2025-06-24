@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 296489024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a74067e23dc7167b8a6cef915657b688
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a74067e23dc7167b8a6cef915657b688
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.TPBlood/Textures/TRAHS/Things/Item/Meal/BloodSausage/BloodSausage_c.png
+- Assets/Data/Mlie.TPBlood/Textures/Things/Item/Meal/BloodSausage/BloodSausage_a.png
+- Assets/Data/Mlie.TPBlood/Textures/SOURCE/Artboard 1_8.png
+- Assets/Data/Mlie.TPBlood/Textures/Things/Item/Drug/BloodJuice/BloodJuice_b.png
+- Assets/Data/Mlie.TPBlood/Textures/Things/Item/Meal/BugCream.png
+- Assets/Data/Mlie.TPBlood/Textures/TRAHS/Things/Item/Meal/BugCream.png
+- Assets/Data/Mlie.TPBlood/Textures/Things/Building/Production/BloodAltar/BloodAltar.png
+- Assets/Data/Mlie.TPBlood/Textures/TRAHS/Things/Item/Meal/MysteryLoaf.png
+- Assets/Data/Mlie.TPBlood/Textures/Things/Item/Drug/BloodJuice/BloodJuice_a.png
+- Assets/Data/Mlie.TPBlood/Textures/Things/Item/Meal/MysteryLoaf.png
+- Assets/Data/Mlie.TPBlood/Textures/TRAHS/Things/Item/Resource/BloodRaw.png
+- Assets/Data/Mlie.TPBlood/Textures/Things/Item/Meal/BloodSausage/BloodSausage_b.png
+- Assets/Data/Mlie.TPBlood/Textures/TRAHS/Things/Item/Meal/BloodSausage/BloodSausage_a.png
+- Assets/Data/Mlie.TPBlood/Textures/Things/Item/Meal/Bloodrito.png
+- Assets/Data/Mlie.TPBlood/Textures/SOURCE/Artboard 1.png
+- Assets/Data/Mlie.TPBlood/Textures/TRAHS/Things/Item/Meal/Bloodrito.png
+- Assets/Data/Mlie.TPBlood/Textures/SOURCE/Artboard 1_7.png
+- Assets/Data/Mlie.TPBlood/Textures/Things/Item/Resource/BloodRaw.png
+- Assets/Data/Mlie.TPBlood/Textures/Things/Item/Meal/BloodSausage/BloodSausage_c.png
+- Assets/Data/Mlie.TPBlood/Textures/TRAHS/Things/Item/Meal/BloodSausage/BloodSausage_b.png
+Dependencies: []

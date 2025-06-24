@@ -14,12 +14,13 @@ public static class Pawn_ButcherProducts
 
     public static IEnumerable<Thing> Postfix(IEnumerable<Thing> values, Pawn __instance, float efficiency)
     {
-        if (values == null || !values.Any())
+        var butcherProducts = values as Thing[] ?? values.ToArray();
+        if (!butcherProducts.Any())
         {
             yield break;
         }
 
-        foreach (var value in values)
+        foreach (var value in butcherProducts)
         {
             yield return value;
         }
